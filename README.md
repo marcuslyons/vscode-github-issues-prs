@@ -64,7 +64,7 @@ File bugs and feature requests in [GitHub Issues](https://github.com/Microsoft/v
 
 Checkout the source code in the [GitHub Repository](https://github.com/Microsoft/vscode-github-issues-prs).
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.asdfasdfasdfas
 
 ## License
 [MIT](LICENSE)
